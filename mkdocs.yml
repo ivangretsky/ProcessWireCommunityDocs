@@ -1,9 +1,0 @@
-site_name: ProcessWire Community Docs
-pages:
-- About these docs: index.md
-- Official docs: official-docs.md
-#- Introducing ProcessWire: intro.md
-- Instаllation: installation.md
-#- Main concepts: concepts.md
-#- Administration: administration.md
-theme: readthedocs
